@@ -930,7 +930,7 @@ def main(page: ft.Page):
     page.theme = ft.Theme(font_family="PT Mono")
     page.bgcolor = Theme_bg
     page.window.width = 1400
-    page.title = "XTOOL"
+    page.title = "XTOOL Coded by @XWADAPTER"
     page.scroll = ft.ScrollMode.HIDDEN
     page.window.height = 800
     page.window.resizable = False
